@@ -1,0 +1,19 @@
+*{padding:0;margin:0}
+h1{text-align:center;font-size:68px;margin:0;padding-top:10px;padding-bottom:10px;text-shadow:5px 3px 5px #FB5982}
+#container{width:1100px;height:2020px;margin:0 auto;border:1px solid gray;padding-bottom:900px;background:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Ffotos-gratis%2Fresumo-marrom-reciclar-papel-amassado-para-o-fundo_7182-1078.jpg%3Fsize%3D626%26ext%3Djpg&f=1&nofb=1&ipt=b34daa8537f05668fb54f1b397e9e53b50ef7e4e5c0f7b4d67011339f50e5623&ipo=images);min-width:900px}
+#fundo{background:#cecece url(https://atlas.fgv.br/sites/atlas.fgv.br/files/marcos/midias/46_2.jpg) repeat-y center}
+#canhao{padding-left:60px}
+#texto1{float:right;padding-right:50px;padding-top:10px}
+p{font-size:24px}#texto2{padding-left:60px;padding-top:10px}
+#barco{width:36%;float:right;padding-right:60px}
+#comando{width:30%;padding-left:50px}
+#texto3{padding-right:50px;float:right;padding-top:10px}
+#torre{width:30%;float:right;padding-right:60px;padding-top:5px}
+#mapa{width:80%;padding-top:60px;padding-left:105px;border:1px solidd gray}
+footer{text-align:center;font-size:24px;}
+th{border:1px solid #D7DE00;padding:3px 5px;}
+table{width:600px;padding-top:20px;margin:0 auto}
+tr#table:hover{background:#FAAC58}
+#video{text-align:center}
+footer{background: white; padding: auto;}
+#video2{text-align: center;}
